@@ -1,0 +1,14 @@
+.available-rides {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .ride-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    width: 80%;
+  }
+  
